@@ -6,7 +6,7 @@
 
 #include<stdio.h>
 void insert();
-void delete();
+void deletea();
 void sort();
 void merge();
 void search();
@@ -26,7 +26,7 @@ int main(){
   switch (ch) {
     case 1 : insert();
              break;
-    case 2 : delete();
+    case 2 : deletea();
              break;
     case 3 : sort();
              break;
@@ -65,7 +65,7 @@ void insert(){
   }
 }
 
-void delete(){
+void deletea(){
   int n,num,d,a[100],i;
   printf("enter array limit");
   scanf("%d",&n);
