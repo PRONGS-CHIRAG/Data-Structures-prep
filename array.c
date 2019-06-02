@@ -1,6 +1,18 @@
 /******************************************************************************
 
   Author : Chirag N Vijay
+  
+  Topic : Arrays
+  Points :-  Collection of similar data elements.
+             Same datatype
+             Stored in consecutive memory locations and referenced by an index
+             Index should be of integer type
+             Loops are used to access these elements
+             Address = Base Address + size_of_one_element_in_memory(index-lower_bound)
+             Length_of_array = upper_bound - lower_bound +1
+             Declaration :-
+                    type array_name[size]={list_of_values}
+                    In 1d arrays size may not be initialized
 
 *******************************************************************************/
 
