@@ -1,0 +1,12 @@
+Other Important Points.
+
+Pointers are used to access multi-dimensional arrays.
+Multi-dimensional arrays are also referred to as array of arrays.
+Sparse matrices are matrices which contain a large amount of 0's.
+Sparse Matrices are of two types- Lower triangular ( above main diagonal every element is zero)
+                                  Upper Triangular ( below main diagonal every element is zero)
+Applications Of Arrays
+->Used in databases
+_>Used to implement other data structures
+->Used for sorting elements
+->Used for representing vectors,matrices and other mathematical formulae.
