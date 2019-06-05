@@ -10,3 +10,5 @@ linked_list_1.c - Basic implementation of singly linked linked-lists
 
 circular_linked_list.c - Basic implementation of circular linked linked-lists.
 
+doubly_linked_list.c - Basic implementation of doubly linked linked lists.
+
